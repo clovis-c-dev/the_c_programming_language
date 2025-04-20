@@ -1,0 +1,29 @@
+# Arquivos compilados e executáveis
+*.o
+*.out
+*.exe
+*.a
+*.so
+*.dll
+
+# Arquivos de objeto
+*.obj
+*.ilk
+*.pdb
+
+# Arquivos específicos do GCC
+*.gcno
+*.gcda
+
+# Diretórios de build
+build/
+bin/
+obj/
+
+# Arquivos de depuração
+*.debug
+
+# Arquivos de projeto (se usar IDE)
+*.project
+*.cproject
+*.settings/
